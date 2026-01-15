@@ -1,12 +1,12 @@
 # Day 3 - Wednesday: Stacks and Queues
 
-**Date:** [Date]  
+**Date:**  15/01/2026
 **Time:** 8:00 AM - 5:00 PM  
 **Topic:** Stacks and Queues - LIFO and FIFO
 
 ---
 
-## Morning Session (8:00 AM - 12:00 PM)
+## Morning Session (8:00 AM - 1:00 PM)
 
 ### What I Learned
 
@@ -50,7 +50,7 @@
 
 ---
 
-## Afternoon Session (1:00 PM - 5:00 PM)
+## Afternoon Session (2:00 PM - 5:00 PM)
 
 ### What I Learned
 
@@ -151,10 +151,11 @@ test_queues.py::TestDeque::test_peek PASSED
 ## Summary
 
 ### Time Breakdown
-- **Morning:** 4 hours (8 AM - 12 PM)
+- **Morning:** 5 hours (8 AM - 1 PM)
 - **Lunch:** 1 hour (12 PM - 1 PM)
-- **Afternoon:** 4 hours (1 PM - 5 PM)
+- **Afternoon:** 3 hours (2 PM - 5 PM)
 - **Total:** 8 hours
+- **Note that I start the afternoon at 12pm so that they are both 4 hours**
 
 ### Files Created
 1. `data_structures/stacks/stack.py` - Stack implementations

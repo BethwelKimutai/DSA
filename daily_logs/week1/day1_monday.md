@@ -6,7 +6,7 @@
 
 ---
 
-## Morning Session (8:00 AM - 12:00 PM)
+## Morning Session (8:00 AM - 1:00 PM)
 
 ### What I Learned
 
@@ -98,11 +98,11 @@ test_arrays.py::TestArrayAlgorithms::test_two_sum PASSED
 
 ## Summary
 
-### Time Breakdown
-- **Morning:** 4 hours (8 AM - 12 PM)
+- **Morning:** 5 hours (8 AM - 1 PM)
 - **Lunch:** 1 hour (12 PM - 1 PM)
-- **Afternoon:** 4 hours (1 PM - 5 PM)
+- **Afternoon:** 3 hours (2 PM - 5 PM)
 - **Total:** 8 hours
+- **Note that I start the afternoon at 12pm so that they are both 4 hours**
 
 ### Files Created
 1. `data_structures/arrays/array_operations.py` - Main implementation
