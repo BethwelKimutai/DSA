@@ -99,7 +99,7 @@ test_arrays.py::TestArrayAlgorithms::test_two_sum PASSED
 ## Summary
 
 - **Morning:** 5 hours (8 AM - 1 PM)
-- **Lunch:** 1 hour (12 PM - 1 PM)
+- **Lunch:** 1 hour (1 PM - 2 PM)
 - **Afternoon:** 3 hours (2 PM - 5 PM)
 - **Total:** 8 hours
 - **Note that I start the afternoon at 12pm so that they are both 4 hours**
