@@ -29,6 +29,7 @@ def inorder_traversal(root):
     return result
 
 
+
 def preorder_traversal(root):
     """Pre-order traversal: Root -> Left -> Right."""
     result = []
